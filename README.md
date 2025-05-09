@@ -3,6 +3,12 @@
 ## 🌟 Overview
 EduVision is an AI-powered web application designed to help students digitize handwritten notes, extract text using OCR (Azure), and generate quiz questions for exam preparation and summarize. The platform offers a seamless experience through a React-based front end and a Nodejs-powered AI backend.
 
+## 🎥 Project Demo
+
+Check out the live demo of **EduVision** in action on YouTube:
+
+[![Watch Demo](https://img.youtube.com/vi/Uy9OzbRfXG4/0.jpg)](https://youtu.be/Uy9OzbRfXG4)
+
 ## ✨ Features
 - 📝 **Handwritten Notes Digitization**: Upload handwritten lecture notes and convert them into editable text using OCR(Azure).
 
@@ -54,10 +60,6 @@ If this project interests or helps you, please consider:
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any queries, reach out to 
-<div align="center">
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B615YOK7)
-
-</div>
-
+- 🌐 Portfolio: [jerry-james.me](https://jerry-james.me)  
+-
+   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B615YOK7)
