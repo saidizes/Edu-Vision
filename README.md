@@ -35,7 +35,7 @@ This repository is **private** and not publicly accessible.
 
 To get access to the full source code:
 
-### 💳 [Pay ₹2,500 to Access EduVision](https://rzp.io/rzp/ofxThDv)
+### 💳 [Pay ₹4,500 to Access EduVision](https://rzp.io/rzp/ofxThDv)
 
 
 After successful payment, you will be invited to the private GitHub repository.
